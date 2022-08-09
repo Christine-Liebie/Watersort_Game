@@ -9,8 +9,8 @@ A generic version of this method should be added to the MyArrayList class. The m
 # In the StackAsMyArrayList class:
 I created a Peek method to return the value of the top element without removing it.
 I also added 2 non-typical stack methods:  
-			- public int getStackSize()  which calls the getSize() method of the MyArrayList class
-			- public boolean checkStackUniform() which calls the checkUniform() method of the MyArrayList class
+			1. public int getStackSize()  which calls the getSize() method of the MyArrayList class
+			2. public boolean checkStackUniform() which calls the checkUniform() method of the MyArrayList class
 			
 # In the test class called WaterSort:
 It creates a bottle (StackAsArrayList). It also creates objects of the character glass.
